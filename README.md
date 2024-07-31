@@ -1,0 +1,2 @@
+# CloudCrafter
+基于文本的轻量级词云生成软件CloudCrafter
